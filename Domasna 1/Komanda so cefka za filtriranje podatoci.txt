@@ -1,0 +1,4 @@
+osmfilter map-1.osm --keep="amenity=atm" | osmconvert64 - --all-to-nodes --csv="@id @lon @lat amenity name name:en int_name opening_hours addr:city addr:city:en addr:country addr:postcode addr:street brand operator" --csv-headline --csv-separator="," -o="ATM.csv"
+
+
+
