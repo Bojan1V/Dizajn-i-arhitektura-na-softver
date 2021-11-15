@@ -1,1 +1,1 @@
-# Dizajn-i-arhitektura-na-softver
+# Dizajn i arhitektura na softver
