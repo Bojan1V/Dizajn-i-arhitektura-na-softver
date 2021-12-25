@@ -101,15 +101,13 @@ End Code
                     break;
             }
         });
-
-
     });
 
     var map = L.map('map').setView([41.6086, 21.7453], 8);
 
     //racno vneseni lokacii za prikaz na mapa
     var locations = [
-        ['<img src="/images/atm.png" style="margin-bottom:10px;margin-left: 20%; width: 50%;height: 100px;">  <p>ул. &bdquo;Народен фронт&ldquo; бр. 19а ТЦ Беверли Хилс</p>', 41.9933528, 21.41643333333333],
+        ['<img src="/images/atm.png" style="margin-bottom:10px;margin-left: 20%; width: 50%;height: 100px;">  <p>ул. &bdquo;Народен фронт&ldquo; бр. 19а ТЦ Беверли Хилс</p><button type="button" id="btnSave" onclick="clickMe()" data-attr="1">Зачувај Банкомат</button>', 41.9933528, 21.41643333333333],
         ['<img src="/images/atm.png" style="margin-bottom:10px;margin-left: 20%; width: 50%;height: 100px;">  <p>бул. &bdquo;Јане Сандански&ldquo; бр. 26, влез 2, локал 4</p>', 41.9864528, 21.46371667],
         ['<img src="/images/atm.png" style="margin-bottom:10px;margin-left: 20%; width: 50%;height: 100px;">  <p style="margin-left: 35px;">ул. "adresa" бр. 43/1-1</p> <p style="margin-left: 35px;">02/32 47 000 лок. 000</p><p style="margin-left: 35px;">понеделник - петок од 8:30 до 16:30 часот<br />сабота од 8:30 до 16:30 часот</p><p style="margin-left: 35px;"><strong>Раководител:</strong> Име Презиме</p><p style="margin-left: 35px;">02/32 47 000 лок. 000</p><p style="margin-left: 35px;"><a href="mailto:ime.prezime@ttk.com.mk">ime.prezime@ttk.com.mk</a></p>', 41.9949083, 21.42761944],
         ['<img src="/images/atm.png" style="margin-bottom:10px;margin-left: 20%; width: 50%;height: 100px;">  <p style="margin-left: 35px;">ул. "adresa" бр. 43/1-1</p>', 41.9760417, 21.44379444],
@@ -172,7 +170,7 @@ End Code
         ['<img src="/images/atm.png" style="margin-bottom:10px;margin-left: 20%; width: 50%;height: 100px;">  <p>ул. &bdquo;Народен фронт&ldquo; бр. 19а</p><p>контакт телефон: 02/32 47 000 лок. 508, 509</p><p>работно време: од понеделник до петок од 8:00 до 17:00 часот</p><p>сабота од 9:00 до 13:00 часот</p><p>директор: Зоран Благоев</p><p>е-пошта: zoran.blagoev@ttk.com.mk</p>', 41.99369397903403, 21.416239625206913],
         ['<img src="/images/atm.png" style="margin-bottom:10px;margin-left: 20%; width: 50%;height: 100px;">  <p>ул. &bdquo;Ќемал Сејфула&ldquo; бр. 1/1/4</p><p>Скопје</p>', 42.02030375726329, 21.443228702271426],
         ['<img src="/images/atm.png" style="margin-bottom:10px;margin-left: 20%; width: 50%;height: 100px;">  <p>ул. &bdquo;Ќемал Сејфула&ldquo; бр. 1/1/4</p><p>Скопје</p>	', 42.0202392, 21.443179722222222],
-        ['<img src="/images/atm.png" style="margin-bottom:10px;margin-left: 20%; width: 50%;height: 100px;">  <p>ул. &bdquo;Климент Охридски&ldquo; бр. 43</p>', 41.1145826546417, 20.80049306805347]
+        ['<img src="/images/atm.png" style="margin-bottom:10px;margin-left: 20%; width: 50%;height: 100px;">  <p>ул. &bdquo;Климент Охридски&ldquo; бр. 43</p><button type="button" id="btnSave" onclick="clickMe()" data-attr="63">Зачувај Банкомат</button><p>', 41.1145826546417, 20.80049306805347]
 
 
     ];
@@ -193,6 +191,25 @@ End Code
             .addTo(map);
     }
 
-</script>
+    function clickMe() {
+        var temp = $("#btnSave").attr("data-attr");
+        var test = 1;
+        if (localStorage.getItem("test") != null) {
+            test = localStorage.getItem("test");
+        }
+        for (var i = 1; i <= locations.length; i++) {
 
+            if (i == temp) {
+                localStorage.setItem("podatociZaBankata" + test, locations[i][0]);
+                test++;
+            }
+
+        }
+
+        localStorage.setItem("test", test);
+    }
+
+
+
+</script>
 
