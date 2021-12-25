@@ -8,6 +8,12 @@ End Code
         border-bottom: 2px solid black;
         padding: 10px;
     }
+    li img{
+        display:none;
+    }
+    li button{
+        display:none;
+    }
 
     .btn-danger {
         position: relative;
@@ -19,11 +25,13 @@ End Code
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
 
 <div class="jumbotron">
-    <h3>При клик на зачуваниот банкомат ќе добиете достапни локации во градот кој што сте избрале</h3>
+    <h3>Зачувани банкомати</h3>
+    <h6>При клик на копчето "Избриши" ќе ја избришите локацијата на бакоматот</h6>
 </div>
 
 <div id="zacuvaniBankomati">
     <ul>
+        
     </ul>
 </div>
 
@@ -36,7 +44,7 @@ End Code
             $("#zacuvaniBankomati").append("<li>" + bankomati + "</li>" + "<button class='btn btn-danger' type='button' id='btnDelete' 'data-attr=" + brojac + ">Избриши</button>");
         }
 
-        $("#btnDelte").click(function () {
+        $("#btnDelete").click(function () {
             debugger;
             var temp = $("#btnDelete").attr("data-attr");
             alert("vlegov" + temp);
