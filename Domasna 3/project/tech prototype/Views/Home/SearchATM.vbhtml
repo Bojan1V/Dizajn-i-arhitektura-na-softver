@@ -29,6 +29,9 @@ End Code
     #posta{
         display:none;
     }
+    #banks{
+        display:none;
+    }
    
 </style>
 
@@ -54,6 +57,15 @@ End Code
     <option value="2">Поштенски број</option>
     </select>
 </h5>
+<h5 id="banks">
+    Изберете банка доколку сакате избор според банка:<select class="banki" style="width: 100%">
+    <option value="0">НЛБ</option>
+    <option value="1">ТТК</option>
+    <option value="2">Силк роад</option>
+    <option value="2">Халк</option>
+    <option value="2">Комерцијална</option>
+</select>
+</h5>
 <script type="text/javascript">
     $(document).ready(function () {
 
@@ -65,13 +77,16 @@ End Code
                     map.setView([41.6086, 21.7453], 8);
                     $("#posta").hide();
                     $("#grad").hide();
+                    $("#banks").hide();
                     break;
                 case 1:
                     $("#grad").show();
+                    $("#banks").show();
                     $("#posta").hide();
                     break;
                 case 2:
                     $("#posta").show();
+                    $("#banks").show();
                     $("#grad").hide();
                     break;
                 default:
@@ -340,10 +355,13 @@ End Code
         ['<img src="/images/atm.png" style="margin-bottom:10px;margin-left: 20%; width: 50%;height: 100px;">  <p>ул. &bdquo;Народен фронт&ldquo; бр. 19а</p><button type="button" id="btnSave" onclick="clickMe()" data-attr="60">Зачувај Банкомат</button><p>', 41.99369397903403, 21.416239625206913],
         ['<img src="/images/atm.png" style="margin-bottom:10px;margin-left: 20%; width: 50%;height: 100px;">  <p>ул. &bdquo;Ќемал Сејфула&ldquo; бр. 1/1/4</p><p>Скопје</p><button type="button" id="btnSave" onclick="clickMe()" data-attr="61">Зачувај Банкомат</button>', 42.02030375726329, 21.443228702271426],
         ['<img src="/images/atm.png" style="margin-bottom:10px;margin-left: 20%; width: 50%;height: 100px;">  <p>ул. &bdquo;Ќемал Сејфула&ldquo; бр. 1/1/4</p><p>Скопје</p><button type="button" id="btnSave" onclick="clickMe()" data-attr="62">Зачувај Банкомат</button><p>', 42.0202392, 21.443179722222222],
-        ['<img src="/images/atm.png" style="margin-bottom:10px;margin-left: 20%; width: 50%;height: 100px;">  <p>ул. &bdquo;Климент Охридски&ldquo; бр. 43</p><button type="button" id="btnSave" onclick="clickMe()" data-attr="63">Зачувај Банкомат</button><p>', 41.1145826546417, 20.80049306805347]
-
+        ['<img src="/images/atm.png" style="margin-bottom:10px;margin-left: 20%; width: 50%;height: 100px;">  <p>ул. &bdquo;Климент Охридски&ldquo; бр. 43</p><button type="button" id="btnSave" onclick="clickMe()" data-attr="63">Зачувај Банкомат</button><p>', 41.1145826546417, 20.80049306805347],
+        ['<img src="/images/atm.png" style="margin-bottom:10px;margin-left: 20%; width: 50%;height: 100px;">  <p>ул. &bdquo;  Bul. Mak. Prosvetiteli BB, Tinex 2 Ohrid,&ldquo; </p><button type="button" id="btnSave" onclick="clickMe()" data-attr="64">Зачувај Банкомат</button>', 41.122836107665265, 20.80967164748142],
+        ['<img src="/images/atm.png" style="margin-bottom:10px;margin-left: 20%; width: 50%;height: 100px;">  <p>ул. &bdquoSv. Kliment Ohridski i Makedonski Prosvetiteli, Stara Carsija, Prodavnica Orka, Ohrid 6000,&ldquo; </p><button type="button" id="btnSave" onclick="clickMe()" data-attr="65">Зачувај Банкомат</button>', 41.11441015174083, 20.799962269432168]
 
     ];
+
+  
 
     L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiaHJpc3RpamFuIiwiYSI6ImNreGxvcWkzdjA1ZXYyb3A3MHljY3FrM3QifQ.H81GPu4dvu5P_rON5RzJIg', {
         attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
@@ -360,7 +378,7 @@ End Code
             .bindPopup(locations[i][0])
             .addTo(map);
     }
-
+    
     function clickMe() {
         var temp = $("#btnSave").attr("data-attr");
         var test = 1;
