@@ -1,0 +1,10 @@
+services:
+  techprototype:
+    build:
+      context: .\tech prototype
+      dockerfile: Dockerfile
+    image: techprototype
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp

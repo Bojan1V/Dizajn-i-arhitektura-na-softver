@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  techprototype:
+    image: ${DOCKER_REGISTRY-}techprototype
+    build:
+      context: .\tech prototype
+      dockerfile: Dockerfile

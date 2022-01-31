@@ -1,0 +1,857 @@
+﻿++Solution 'tech prototype' ‎(1 of 1 project)
+++tech prototype
+i:{00000000-0000-0000-0000-000000000000}:tech prototype
+++My Project
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\my project\
+++PublishProfiles
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\my project\publishprofiles\
+++Application.myapp
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\my project\application.myapp
+++AssemblyInfo.vb
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\my project\assemblyinfo.vb
+++Resources.resx
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\my project\resources.resx
+++Settings.settings
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\my project\settings.settings
+++References
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++Antlr3.Runtime
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++Microsoft.Web.Infrastructure
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++Newtonsoft.Json
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.ComponentModel.DataAnnotations
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Configuration
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Core
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Data
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Data.DataSetExtensions
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Drawing
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.EnterpriseServices
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Net.Http
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Net.Http.WebRequest
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Web
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Web.Abstractions
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Web.ApplicationServices
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Web.DynamicData
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Web.Entity
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Web.Extensions
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Web.Helpers
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Web.Mvc
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Web.Optimization
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Web.Razor
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Web.Routing
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Web.Services
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Web.WebPages
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Web.WebPages.Deployment
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Web.WebPages.Razor
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Xml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++System.Xml.Linq
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++WebGrease
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:
+++App_Data
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\app_data\
+++App_Start
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\app_start\
+++bin
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\
+++roslyn
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\
+++Antlr3.Runtime.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\antlr3.runtime.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\antlr3.runtime.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\antlr3.runtime.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\antlr3.runtime.dll
+++Antlr3.Runtime.pdb
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\antlr3.runtime.pdb
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\antlr3.runtime.pdb
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\antlr3.runtime.pdb
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\antlr3.runtime.pdb
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\microsoft.codedom.providers.dotnetcompilerplatform.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\microsoft.codedom.providers.dotnetcompilerplatform.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\microsoft.codedom.providers.dotnetcompilerplatform.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\microsoft.codedom.providers.dotnetcompilerplatform.dll
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\microsoft.codedom.providers.dotnetcompilerplatform.xml
+++Microsoft.Web.Infrastructure.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\microsoft.web.infrastructure.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\microsoft.web.infrastructure.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\microsoft.web.infrastructure.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\microsoft.web.infrastructure.dll
+++Newtonsoft.Json.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\newtonsoft.json.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\newtonsoft.json.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\newtonsoft.json.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\newtonsoft.json.dll
+++Newtonsoft.Json.xml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\newtonsoft.json.xml
+++System.Web.Helpers.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\system.web.helpers.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\system.web.helpers.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\system.web.helpers.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\system.web.helpers.dll
+++System.Web.Helpers.xml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\system.web.helpers.xml
+++System.Web.Mvc.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\system.web.mvc.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\system.web.mvc.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\system.web.mvc.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\system.web.mvc.dll
+++System.Web.Mvc.xml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\system.web.mvc.xml
+++System.Web.Optimization.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\system.web.optimization.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\system.web.optimization.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\system.web.optimization.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\system.web.optimization.dll
+++System.Web.Optimization.xml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\system.web.optimization.xml
+++System.Web.Razor.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\system.web.razor.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\system.web.razor.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\system.web.razor.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\system.web.razor.dll
+++System.Web.Razor.xml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\system.web.razor.xml
+++System.Web.WebPages.Deployment.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\system.web.webpages.deployment.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\system.web.webpages.deployment.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\system.web.webpages.deployment.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\system.web.webpages.deployment.dll
+++System.Web.WebPages.Deployment.xml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\system.web.webpages.deployment.xml
+++System.Web.WebPages.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\system.web.webpages.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\system.web.webpages.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\system.web.webpages.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\system.web.webpages.dll
+++System.Web.WebPages.Razor.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\system.web.webpages.razor.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\system.web.webpages.razor.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\system.web.webpages.razor.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\system.web.webpages.razor.dll
+++System.Web.WebPages.Razor.xml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\system.web.webpages.razor.xml
+++System.Web.WebPages.xml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\system.web.webpages.xml
+++tech prototype.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\tech prototype.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\debug\tech prototype.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\tech prototype.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\tech prototype.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\tech prototype.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\tech prototype.dll
+++tech prototype.dll.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\tech prototype.dll.config
+++tech prototype.pdb
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\tech prototype.pdb
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\debug\tech prototype.pdb
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\tech prototype.pdb
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\tech prototype.pdb
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\tech prototype.pdb
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\tech prototype.pdb
+++tech prototype.xml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\tech prototype.xml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\debug\tech prototype.xml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\tech prototype.xml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\tech prototype.xml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\tech prototype.xml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\tech prototype.xml
+++WebGrease.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\webgrease.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\webgrease.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\webgrease.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\webgrease.dll
+++Content
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\content\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\content\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\content\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\content\
+++bootstrap-theme.css
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\content\bootstrap-theme.css
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\content\bootstrap-theme.css
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\content\bootstrap-theme.css
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\content\bootstrap-theme.css.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\content\bootstrap-theme.css.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\content\bootstrap-theme.css.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\content\bootstrap-theme.min.css
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\content\bootstrap-theme.min.css
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\content\bootstrap-theme.min.css
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\content\bootstrap-theme.min.css.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\content\bootstrap-theme.min.css.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\content\bootstrap-theme.min.css.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\content\bootstrap.css
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\content\bootstrap.css
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\content\bootstrap.css
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\content\bootstrap.css
+++bootstrap.css.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\content\bootstrap.css.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\content\bootstrap.css.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\content\bootstrap.css.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\content\bootstrap.css.map
+++bootstrap.min.css
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\content\bootstrap.min.css
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\content\bootstrap.min.css
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\content\bootstrap.min.css
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\content\bootstrap.min.css.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\content\bootstrap.min.css.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\content\bootstrap.min.css.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\content\bootstrap.min.css.map
+++Site.css
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\content\site.css
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\content\site.css
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\content\site.css
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\content\site.css
+++Controllers
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\controllers\
+++HomeController.vb
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\controllers\homecontroller.vb
+++fonts
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\fonts\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\fonts\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\fonts\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\fonts\
+++images
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\images\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\images\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\images\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\images\
+++Models
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\models\
+++obj
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\
+++Container
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\container\
+++AbsoluteOutputAssemblyPath.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\container\absoluteoutputassemblypath.cache
+++ContainerDevelopmentMode.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\container\containerdevelopmentmode.cache
+++ContainerId.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\container\containerid.cache
+++ContainerName.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\container\containername.cache
+++ContainerOperatingSystemFlavor.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\container\containeroperatingsystemflavor.cache
+++ContainerRunContext.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\container\containerruncontext.cache
+++DebuggeeArguments.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\container\debuggeearguments.cache
+++DebuggeeKillProcessCommand.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\container\debuggeekillprocesscommand.cache
+++DebuggeeProgram.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\container\debuggeeprogram.cache
+++DebuggeeWorkingDirectory.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\container\debuggeeworkingdirectory.cache
+++ExtendCompilerIdleTime.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\container\extendcompileridletime.cache
+++FastModeProjectMountDirectory.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\container\fastmodeprojectmountdirectory.cache
+++ImageBuildContext.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\container\imagebuildcontext.cache
+++ImageId.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\container\imageid.cache
+++OperatingSystemName.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\container\operatingsystemname.cache
+++TargetFramework.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\container\targetframework.cache
+++Debug
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\debug\
+++Docker
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\docker\
+++Release
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\
+++Properties
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\properties\
+++ServiceDependencies
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\properties\servicedependencies\
+++bankomati-mkd - Web Deploy
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\properties\servicedependencies\bankomati-mkd - web deploy\
+++profile.arm.json
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\properties\servicedependencies\bankomati-mkd - web deploy\profile.arm.json
+++Scripts
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\scripts\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\scripts\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\scripts\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\scripts\
+++Views
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\views\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\views\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\views\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\csautoparameterize\original\views\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\csautoparameterize\transformed\views\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\views\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\profiletransformwebconfig\transformed\views\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\transformwebconfig\transformed\views\
+++Home
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\views\home\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\views\home\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\views\home\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\views\home\
+++About.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\views\home\about.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\views\home\about.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\views\home\about.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\views\home\about.vbhtml
+++Contact.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\views\home\contact.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\views\home\contact.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\views\home\contact.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\views\home\contact.vbhtml
+++Index.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\views\home\index.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\views\home\index.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\views\home\index.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\views\home\index.vbhtml
+++SavedATM.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\views\home\savedatm.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\views\home\savedatm.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\views\home\savedatm.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\views\home\savedatm.vbhtml
+++SearchATM.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\views\home\searchatm.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\views\home\searchatm.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\views\home\searchatm.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\views\home\searchatm.vbhtml
+++Shared
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\views\shared\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\views\shared\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\views\shared\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\views\shared\
+++_Layout.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\views\shared\_layout.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\views\shared\_layout.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\views\shared\_layout.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\views\shared\_layout.vbhtml
+++Error.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\views\shared\error.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\views\shared\error.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\views\shared\error.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\views\shared\error.vbhtml
+++_ViewStart.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\views\_viewstart.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\views\_viewstart.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\views\_viewstart.vbhtml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\views\_viewstart.vbhtml
+++Web.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\views\web.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\web.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\web.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\web.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\csautoparameterize\original\web.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\csautoparameterize\transformed\web.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\web.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\transformwebconfig\assist\web.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\transformwebconfig\original\web.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\transformwebconfig\transformed\web.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\views\web.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\views\web.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\csautoparameterize\original\views\web.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\csautoparameterize\transformed\views\web.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\views\web.config
+++Dockerfile
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\dockerfile
+++favicon.ico
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\favicon.ico
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\favicon.ico
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\favicon.ico
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\favicon.ico
+++Global.asax
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\global.asax
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\global.asax
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\global.asax
+++packages.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\packages.config
+++bankomati-mkd - Web Deploy.pubxml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\my project\publishprofiles\bankomati-mkd - web deploy.pubxml
+++bankomati-mkd - Web Deploy.pubxml.user
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\my project\publishprofiles\bankomati-mkd - web deploy.pubxml.user
+++Application.Designer.vb
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\my project\application.designer.vb
+++Resources.Designer.vb
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\my project\resources.designer.vb
+++Settings.Designer.vb
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\my project\settings.designer.vb
+++BundleConfig.vb
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\app_start\bundleconfig.vb
+++FilterConfig.vb
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\app_start\filterconfig.vb
+++RouteConfig.vb
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\app_start\routeconfig.vb
+++csc.exe
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\csc.exe
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\csc.exe
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\csc.exe
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\csc.exe
+++csc.exe.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\csc.exe.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\csc.exe.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\csc.exe.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\csc.exe.config
+++csc.rsp
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\csc.rsp
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\csc.rsp
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\csc.rsp
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\csc.rsp
+++csi.exe
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\csi.exe
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\csi.exe
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\csi.exe
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\csi.exe
+++csi.exe.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\csi.exe.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\csi.exe.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\csi.exe.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\csi.exe.config
+++csi.rsp
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\csi.rsp
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\csi.rsp
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\csi.rsp
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\csi.rsp
+++Microsoft.Build.Tasks.CodeAnalysis.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\microsoft.build.tasks.codeanalysis.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\microsoft.build.tasks.codeanalysis.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\microsoft.build.tasks.codeanalysis.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\microsoft.build.tasks.codeanalysis.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\microsoft.codeanalysis.csharp.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\microsoft.codeanalysis.csharp.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\microsoft.codeanalysis.csharp.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Scripting.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\microsoft.codeanalysis.csharp.scripting.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\microsoft.codeanalysis.csharp.scripting.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\microsoft.codeanalysis.csharp.scripting.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\microsoft.codeanalysis.csharp.scripting.dll
+++Microsoft.CodeAnalysis.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\microsoft.codeanalysis.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\microsoft.codeanalysis.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\microsoft.codeanalysis.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.Scripting.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\microsoft.codeanalysis.scripting.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\microsoft.codeanalysis.scripting.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\microsoft.codeanalysis.scripting.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\microsoft.codeanalysis.scripting.dll
+++Microsoft.CodeAnalysis.VisualBasic.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\microsoft.codeanalysis.visualbasic.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\microsoft.codeanalysis.visualbasic.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\microsoft.codeanalysis.visualbasic.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\microsoft.codeanalysis.visualbasic.dll
+++Microsoft.CSharp.Core.targets
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\microsoft.csharp.core.targets
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\microsoft.csharp.core.targets
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\microsoft.csharp.core.targets
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.DiaSymReader.Native.amd64.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\microsoft.diasymreader.native.amd64.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\microsoft.diasymreader.native.amd64.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\microsoft.diasymreader.native.amd64.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\microsoft.diasymreader.native.amd64.dll
+++Microsoft.DiaSymReader.Native.x86.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\microsoft.diasymreader.native.x86.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\microsoft.diasymreader.native.x86.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\microsoft.diasymreader.native.x86.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\microsoft.diasymreader.native.x86.dll
+++Microsoft.Managed.Core.targets
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\microsoft.managed.core.targets
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\microsoft.managed.core.targets
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\microsoft.managed.core.targets
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.VisualBasic.Core.targets
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\microsoft.visualbasic.core.targets
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\microsoft.visualbasic.core.targets
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\microsoft.visualbasic.core.targets
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\microsoft.visualbasic.core.targets
+++Microsoft.Win32.Primitives.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\microsoft.win32.primitives.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\microsoft.win32.primitives.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\microsoft.win32.primitives.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\microsoft.win32.primitives.dll
+++System.AppContext.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.appcontext.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.appcontext.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.appcontext.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.appcontext.dll
+++System.Collections.Immutable.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.collections.immutable.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.collections.immutable.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.collections.immutable.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.collections.immutable.dll
+++System.Console.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.console.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.console.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.console.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.console.dll
+++System.Diagnostics.DiagnosticSource.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.diagnostics.diagnosticsource.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.diagnostics.diagnosticsource.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.diagnostics.diagnosticsource.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.diagnostics.diagnosticsource.dll
+++System.Diagnostics.FileVersionInfo.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.diagnostics.fileversioninfo.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.diagnostics.fileversioninfo.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.diagnostics.fileversioninfo.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.diagnostics.fileversioninfo.dll
+++System.Diagnostics.StackTrace.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.diagnostics.stacktrace.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.diagnostics.stacktrace.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.diagnostics.stacktrace.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.diagnostics.stacktrace.dll
+++System.Globalization.Calendars.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.globalization.calendars.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.globalization.calendars.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.globalization.calendars.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.globalization.calendars.dll
+++System.IO.Compression.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.io.compression.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.io.compression.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.io.compression.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.io.compression.dll
+++System.IO.Compression.ZipFile.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.io.compression.zipfile.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.io.compression.zipfile.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.io.compression.zipfile.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.io.compression.zipfile.dll
+++System.IO.FileSystem.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.io.filesystem.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.io.filesystem.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.io.filesystem.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.io.filesystem.dll
+++System.IO.FileSystem.Primitives.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.io.filesystem.primitives.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.io.filesystem.primitives.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.io.filesystem.primitives.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.io.filesystem.primitives.dll
+++System.Net.Http.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.net.http.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.net.http.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.net.http.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.net.http.dll
+++System.Net.Sockets.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.net.sockets.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.net.sockets.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.net.sockets.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.net.sockets.dll
+++System.Reflection.Metadata.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.reflection.metadata.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.reflection.metadata.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.reflection.metadata.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.reflection.metadata.dll
+++System.Runtime.InteropServices.RuntimeInformation.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.runtime.interopservices.runtimeinformation.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.runtime.interopservices.runtimeinformation.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.runtime.interopservices.runtimeinformation.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.runtime.interopservices.runtimeinformation.dll
+++System.Security.Cryptography.Algorithms.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.security.cryptography.algorithms.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.security.cryptography.algorithms.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.security.cryptography.algorithms.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.security.cryptography.algorithms.dll
+++System.Security.Cryptography.Encoding.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.security.cryptography.encoding.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.security.cryptography.encoding.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.security.cryptography.encoding.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.security.cryptography.encoding.dll
+++System.Security.Cryptography.Primitives.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.security.cryptography.primitives.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.security.cryptography.primitives.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.security.cryptography.primitives.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.security.cryptography.primitives.dll
+++System.Security.Cryptography.X509Certificates.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.security.cryptography.x509certificates.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.security.cryptography.x509certificates.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.security.cryptography.x509certificates.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.security.cryptography.x509certificates.dll
+++System.Text.Encoding.CodePages.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.text.encoding.codepages.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.text.encoding.codepages.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.text.encoding.codepages.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.text.encoding.codepages.dll
+++System.Threading.Tasks.Extensions.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.threading.tasks.extensions.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.threading.tasks.extensions.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.threading.tasks.extensions.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.threading.tasks.extensions.dll
+++System.ValueTuple.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.valuetuple.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.valuetuple.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.valuetuple.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.valuetuple.dll
+++System.Xml.ReaderWriter.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.xml.readerwriter.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.xml.readerwriter.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.xml.readerwriter.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.xml.readerwriter.dll
+++System.Xml.XmlDocument.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.xml.xmldocument.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.xml.xmldocument.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.xml.xmldocument.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.xml.xmldocument.dll
+++System.Xml.XPath.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.xml.xpath.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.xml.xpath.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.xml.xpath.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.xml.xpath.dll
+++System.Xml.XPath.XDocument.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\system.xml.xpath.xdocument.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\system.xml.xpath.xdocument.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\system.xml.xpath.xdocument.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\system.xml.xpath.xdocument.dll
+++vbc.exe
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\vbc.exe
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\vbc.exe
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\vbc.exe
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\vbc.exe
+++vbc.exe.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\vbc.exe.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\vbc.exe.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\vbc.exe.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\vbc.exe.config
+++vbc.rsp
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\vbc.rsp
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\vbc.rsp
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\vbc.rsp
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\vbc.rsp
+++VBCSCompiler.exe
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\vbcscompiler.exe
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\vbcscompiler.exe
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\vbcscompiler.exe
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\vbcscompiler.exe
+++VBCSCompiler.exe.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\bin\roslyn\vbcscompiler.exe.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\bin\roslyn\vbcscompiler.exe.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\roslyn\vbcscompiler.exe.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\bin\roslyn\vbcscompiler.exe.config
+++glyphicons-halflings-regular.eot
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\fonts\glyphicons-halflings-regular.eot
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\fonts\glyphicons-halflings-regular.eot
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\fonts\glyphicons-halflings-regular.eot
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\fonts\glyphicons-halflings-regular.svg
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\fonts\glyphicons-halflings-regular.svg
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\fonts\glyphicons-halflings-regular.svg
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\fonts\glyphicons-halflings-regular.ttf
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\fonts\glyphicons-halflings-regular.ttf
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\fonts\glyphicons-halflings-regular.ttf
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\fonts\glyphicons-halflings-regular.woff
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\fonts\glyphicons-halflings-regular.woff
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\fonts\glyphicons-halflings-regular.woff
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\fonts\glyphicons-halflings-regular.woff2
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\fonts\glyphicons-halflings-regular.woff2
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\fonts\glyphicons-halflings-regular.woff2
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\fonts\glyphicons-halflings-regular.woff2
+++atm.png
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\images\atm.png
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\images\atm.png
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\images\atm.png
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\images\atm.png
+++TempPE
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\debug\temppe\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\temppe\
+++.NETFramework,Version=v4.7.2.AssemblyAttributes.vb
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\debug\.netframework,version=v4.7.2.assemblyattributes.vb
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\.netframework,version=v4.7.2.assemblyattributes.vb
+++DesignTimeResolveAssemblyReferencesInput.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\debug\designtimeresolveassemblyreferencesinput.cache
+++tech prototype.vbproj.AssemblyReference.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\debug\tech prototype.vbproj.assemblyreference.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\tech prototype.vbproj.assemblyreference.cache
+++tech prototype.vbproj.CopyComplete
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\debug\tech prototype.vbproj.copycomplete
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\tech prototype.vbproj.copycomplete
+++tech prototype.vbproj.CoreCompileInputs.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\debug\tech prototype.vbproj.corecompileinputs.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\tech prototype.vbproj.corecompileinputs.cache
+++tech prototype.vbproj.FileListAbsolute.txt
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\debug\tech prototype.vbproj.filelistabsolute.txt
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\tech prototype.vbproj.filelistabsolute.txt
+++tech prototype.vbproj.GenerateResource.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\debug\tech prototype.vbproj.generateresource.cache
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\tech prototype.vbproj.generateresource.cache
+++tech_prototype.Resources.resources
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\debug\tech_prototype.resources.resources
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\tech_prototype.resources.resources
+++empty
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\docker\empty\
+++AspnetCompileMerge
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\
+++CSAutoParameterize
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\csautoparameterize\
+++Package
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\
+++ProfileTransformWebConfig
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\profiletransformwebconfig\
+++TransformWebConfig
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\transformwebconfig\
+++_WPPLastBuildInfo.txt
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\_wpplastbuildinfo.txt
+++CSAutoParameterize.parameters.xml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\csautoparameterize.parameters.xml
+++bootstrap.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\scripts\bootstrap.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\scripts\bootstrap.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\scripts\bootstrap.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\scripts\bootstrap.js
+++bootstrap.min.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\scripts\bootstrap.min.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\scripts\bootstrap.min.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\scripts\bootstrap.min.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\scripts\jquery-3.4.1.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\scripts\jquery-3.4.1.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\scripts\jquery-3.4.1.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\scripts\jquery-3.4.1.min.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\scripts\jquery-3.4.1.min.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\scripts\jquery-3.4.1.min.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\scripts\jquery-3.4.1.min.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\scripts\jquery-3.4.1.min.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\scripts\jquery-3.4.1.min.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\scripts\jquery-3.4.1.slim.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\scripts\jquery-3.4.1.slim.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\scripts\jquery-3.4.1.slim.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\scripts\jquery-3.4.1.slim.min.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\scripts\jquery-3.4.1.slim.min.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\scripts\jquery-3.4.1.slim.min.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\scripts\jquery-3.4.1.slim.min.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\scripts\jquery-3.4.1.slim.min.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\scripts\jquery-3.4.1.slim.min.map
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\scripts\jquery-3.4.1.slim.min.map
+++jquery.validate-vsdoc.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\scripts\jquery.validate.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\scripts\jquery.validate.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\scripts\jquery.validate.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\scripts\jquery.validate.min.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\scripts\jquery.validate.min.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\scripts\jquery.validate.min.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\scripts\jquery.validate.unobtrusive.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\scripts\jquery.validate.unobtrusive.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\scripts\jquery.validate.unobtrusive.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\scripts\jquery.validate.unobtrusive.min.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\scripts\jquery.validate.unobtrusive.min.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\scripts\jquery.validate.unobtrusive.min.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\scripts\modernizr-2.8.3.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\scripts\modernizr-2.8.3.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\scripts\modernizr-2.8.3.js
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\scripts\modernizr-2.8.3.js
+++.dockerignore
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\.dockerignore
+++Global.asax.vb
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\global.asax.vb
+++Web.Debug.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\web.debug.config
+++Web.Release.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\web.release.config
+++My Project.Resources.Designer.vb.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\debug\temppe\my project.resources.designer.vb.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\temppe\my project.resources.designer.vb.dll
+++Source
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\source\
+++TempBuildDir
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\
+++original
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\csautoparameterize\original\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\transformwebconfig\original\
+++transformed
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\csautoparameterize\transformed\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\profiletransformwebconfig\transformed\
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\transformwebconfig\transformed\
+++PackageTmp
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\packagetmp\
+++tech prototype.SourceManifest.xml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\package\tech prototype.sourcemanifest.xml
+++assist
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\transformwebconfig\assist\
+++PrecompiledApp.config
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\precompiledapp.config
+++App_global.asax.compiled
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\app_global.asax.compiled
+++App_global.asax.dll
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\obj\release\aspnetcompilemerge\tempbuilddir\bin\app_global.asax.dll
+++Solution 'tech prototype' ‎(2 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:tech prototype.sln
+++docker-compose (loading...)
+++docker-compose
+i:{00000000-0000-0000-0000-000000000000}:docker-compose
+++docker-compose.yml
+i:{b7891730-a3ba-428e-9e60-218aa46f6390}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\docker-compose.yml
+++docker-compose.override.yml
+i:{b7891730-a3ba-428e-9e60-218aa46f6390}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\docker-compose.override.yml
+++BankomatiMakedonija - Web Deploy.pubxml
+i:{68e14e58-69cd-4024-9c33-7821734a1ab2}:c:\users\user\desktop\dizajn-i-arhitektura-na-softver-master\domasna 3\project\tech prototype\my project\publishprofiles\bankomatimakedonija - web deploy.pubxml
